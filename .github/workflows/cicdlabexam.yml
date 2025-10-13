@@ -46,4 +46,4 @@ jobs:
           git config --global user.email "2300031201@kluniversity.in"
           npm install -g gh-pages
 
-          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/sriramgopal12/CI-CD-S203.git
+          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/sriramgopal12/cicd_labexam.git
